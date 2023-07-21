@@ -1,4 +1,5 @@
 ### Olá me chamo Luís  👋
+![](https://komarev.com/ghpvc/?username=your-github-lfbg96)
 
 Sou apaixonado por tecnologia, amo desenvolver aplicações
 
